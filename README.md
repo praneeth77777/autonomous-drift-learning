@@ -16,7 +16,7 @@ Replace the placeholders after publishing.
 | Deliverable | Link |
 |---|---|
 | Approved-topic spreadsheet | [Fall 2026 CMPE 255 topic spreadsheet](https://docs.google.com/spreadsheets/d/1dgFf_VLUsn00PcexC8l3uXd5lKOSDMXS66x70DCNL_g/edit) |
-| Medium article | `ADD_MEDIUM_ARTICLE_URL` |
+| Medium article | `https://kalangipraneeth.medium.com/when-data-changes-how-autonomous-systems-learn-from-concept-drift-0933ae3f5101` |
 | SlideShare presentation | `ADD_SLIDESHARE_URL` |
 | Presentation video | `ADD_VIDEO_URL_OR_REPOSITORY_PATH` |
 | Primary survey paper | [arXiv:2605.01295](https://arxiv.org/abs/2605.01295) |
